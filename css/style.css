@@ -52,6 +52,8 @@ html, body, .root {
 .root .btn {
   background: -webkit-gradient(linear, left top, right top, from(#5BE218), to(#3BAC02));
   background: linear-gradient(to right, #5BE218, #3BAC02);
+  -webkit-box-shadow: 8px 0px 49px 6px #66C81C;
+          box-shadow: 8px 0px 49px 6px #66C81C;
   color: #FCFCFC;
   font-size: 43px;
   width: 70%;
